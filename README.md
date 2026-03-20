@@ -10,9 +10,9 @@ Built for people who need to share Telegram channel news with friends or audienc
 
 > **Live Feed — `news.php`**
 
-| Feed View | Channel Picker |
-|-----------|---------------|
-| ![Feed](screenshots/feed.png) | ![Channels](screenshots/channels.png) |
+| Feed View |
+|-----------|
+| ![Feed](feed.png) |
 
 > Place your screenshots in a `screenshots/` folder in the repo root.
 
