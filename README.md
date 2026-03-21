@@ -209,8 +209,8 @@ Update `$CHANNEL_NAMES` to match your channel list.
 #### 1.5 Add channel logos (optional)
 
 ```
-web/logos/iranintltv.jpg
-web/logos/vahidheadline.png
+web/logos/channel1.jpg
+web/logos/channel2.png
 ```
 
 Any `.jpg .jpeg .png .webp .gif` is accepted. Falls back to a coloured initial circle if missing.
