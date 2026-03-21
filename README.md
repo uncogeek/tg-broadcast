@@ -14,7 +14,6 @@ Built for people who need to share Telegram channel news with friends or audienc
 |-----------|
 | ![Feed](feed.png) |
 
-> Place your screenshots in a `screenshots/` folder in the repo root.
 
 ---
 
