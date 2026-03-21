@@ -182,8 +182,8 @@ define('HOURS_WINDOW', 1);
 #### ۱.۵ لوگوی کانال‌ها (اختیاری)
 
 ```
-web/logos/iranintltv.jpg
-web/logos/vahidheadline.png
+web/logos/channel1.jpg
+web/logos/channel2.png
 ```
 
 فرمت‌های `.jpg .jpeg .png .webp .gif` قبول می‌شوند.
