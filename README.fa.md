@@ -10,11 +10,11 @@
 
 > **Live Feed — صفحه `news.php`**
 
-| نمای فید اخبار | انتخاب کانال |
-|----------------|--------------|
-| ![Feed](screenshots/feed.png) | ![Channels](screenshots/channels.png) |
 
-> تصاویر را در پوشه `screenshots/` در root پروژه قرار دهید.
+| Feed View |
+|-----------|
+| ![Feed](feed.png) |
+
 
 ---
 
